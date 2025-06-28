@@ -54,6 +54,22 @@ DNABERT treats DNA like a biological language, enabling deep understanding of pa
 
 ---
 
+## 🚀 Why DNABERT Outperforms Traditional ML Models
+
+Traditional machine learning models (like SVMs, Decision Trees, Random Forests) often rely on:
+- Manually crafted **biological features** (e.g., GC content, motif frequencies)
+- Limited ability to capture **long-range dependencies** in DNA
+
+**DNABERT Advantages:**
+- Learns **sequence context** directly from raw k-mer text (no manual features)
+- Captures **global patterns and dependencies** using self-attention
+- **Pretrained** on large-scale genome data, which enables powerful **transfer learning**
+- More **scalable** and adaptable to unseen DNA sequences
+
+> 🧠 In short: DNABERT sees DNA like a language, not just a string — enabling deeper insights into mutation patterns and disease risk.
+
+---
+
 ## 💡 Use Cases
 
 - 🔬 **Genomic Disease Prediction**: Early detection of diabetes predisposition through DNA analysis
